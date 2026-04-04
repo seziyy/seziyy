@@ -1,5 +1,5 @@
 # Hale Sezin Özorman
-**Frontend & Mobile Developer · Blockchain Engineer · Full Stack Builder**
+**Frontend & Mobile Developer · Blockchain Engineer · Full Stack Engineer**
 
 *Shipping real products since sophomore year.*
 
@@ -13,15 +13,6 @@ Full stack developer with hands-on experience in frontend, mobile, backend, and 
 - ⛓️ Competed at **Sui Move Hackathon**, **Ankara Blitz**, **Istanbul Blitz**, and **Izmir Blitz** hackathons
 - 🚀 Built production-grade projects across Web3, mobile, and REST APIs — not just tutorials
 - 🌍 Based in Antalya, Turkey · Open to remote opportunities
-
----
-
-## 🚀 Flagship Project
-
-### Agent Store
-`Flutter` `Go 1.22` `Solidity 0.8` `Hardhat` `PostgreSQL`
-
-A decentralized marketplace for AI agents built with Flutter Web frontend, Go microservices backend, and Solidity smart contracts on EVM. Full blockchain integration with REST API and PostgreSQL database.
 
 ---
 
