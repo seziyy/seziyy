@@ -44,4 +44,4 @@ Full stack developer with hands-on experience in frontend, mobile, backend, and 
 
 ---
 
-*Based in Antalya, Turkey · Open to remote opportunities worldwide*
+
