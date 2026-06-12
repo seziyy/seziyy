@@ -4,6 +4,7 @@
 *Shipping real products since sophomore year.*
 
 ---
+![Profile Views](https://komarev.com/ghpvc/?username=seziyy&color=6e40c9&style=flat-square&label=Profile+Views)
 
 ## 👾 About
 
