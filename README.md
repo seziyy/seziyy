@@ -1,4 +1,4 @@
-# Hale Sezin Özorman
+# Hale 
 **Frontend & Mobile Developer · Blockchain Engineer · Full Stack Engineer**
 
 *Shipping real products since sophomore year.*
