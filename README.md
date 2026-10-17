@@ -24,8 +24,8 @@ Full stack developer with hands-on experience in frontend, mobile, backend, and 
 | Frontend | React · JavaScript · HTML/CSS · UI/UX |
 | Mobile | Flutter · Java |
 | Backend | Go · C# · Python · C |
-| Blockchain | Move (Sui) · Solidity · Rust |
-| Database | PostgreSQL · SQL |
+| Blockchain | Move · Solidity · Rust |
+| Database | Supabase · SQL · MySQL  |
 
 ---
 
@@ -35,6 +35,12 @@ Full stack developer with hands-on experience in frontend, mobile, backend, and 
 - Ankara Blitz Hackathon
 - Istanbul Blitz Hackathon
 - Izmir Blitz Hackathon
+- Kayseri Blitz Hackathon
+- Çanakkale Blitz Hackathon
+- Stellar Pro Hackathon
+- Monad Metropolis Hackathon
+- AMD Hackathon
+- ARC 
 
 ---
 
